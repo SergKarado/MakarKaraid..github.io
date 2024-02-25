@@ -1,0 +1,42 @@
+body
+  {
+    background-color: #f8f8f8;
+  }
+a
+  {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+  }
+ul
+  {
+    list-style-type: none;
+  }
+.catalog
+  {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+  }
+.corOp
+  {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+  }
+.bandera
+  {
+    list-style-type: georgian;
+    font-size: 18px;
+    color: indigo;
+  }
+  .pole
+    {
+      weight: 200px;
+      height: 25px;
+      color: black;
+      font-size: 20px;
+      font-style: italic;
+    }
